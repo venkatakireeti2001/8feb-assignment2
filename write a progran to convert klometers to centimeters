@@ -1,0 +1,10 @@
+kilometer=int(input("enter the lenght in kilometer:")) 
+#convert kilometer to centimeter 
+centimeter=100000*kilometer; 
+
+print("the lenght in centimeter",round(centimeter,2)) 
+
+
+output: 
+enter the lenght in kilometer:100  
+the lenght in centimeter 10000000
